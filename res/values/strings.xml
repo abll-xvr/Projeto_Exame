@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto_Exame</string>
+    <string name="anterior"><![CDATA[<-]]></string>
+    <string name="seguinte"><![CDATA[->]]></string>
+    <string name="semanal">Semanal</string>
+    <string name="novoEvento">Novo Evento</string>
+</resources>
